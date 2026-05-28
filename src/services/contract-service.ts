@@ -3,7 +3,7 @@ import { StorageService } from "@/services/storage-service";
 import type { ContractEvent, ContractError, ContractResponse } from "@/types";
 
 type KeyPair = { publicKey: Uint8Array; privateKey: Uint8Array };
-
+//rytuytu
 type Pending = {
   resolve: (v: unknown) => void;
   reject: (e: unknown) => void;
