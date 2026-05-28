@@ -1,7 +1,7 @@
 import * as bson from "bson";
 import { StorageService } from "@/services/storage-service";
 import type { ContractEvent, ContractError, ContractResponse } from "@/types";
-
+//hhjkh
 type KeyPair = { publicKey: Uint8Array; privateKey: Uint8Array };
 //rytuytukjkjlk
 type Pending = {
