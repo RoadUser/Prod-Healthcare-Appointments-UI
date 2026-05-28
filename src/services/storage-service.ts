@@ -1,6 +1,6 @@
 export class StorageService {
   private static instance: StorageService;
-
+//edrfestrt
   static getInstance(): StorageService {
     if (!StorageService.instance) StorageService.instance = new StorageService();
     return StorageService.instance;
