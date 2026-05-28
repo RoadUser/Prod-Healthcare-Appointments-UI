@@ -4,7 +4,7 @@ import type {
   Policy,
   SetPolicyInput,
   CreateClinicInput,
-  SetClinicActiveInput,
+  SetClinicActiveInput,//gfgfh
   ListClinicsInput,
   Clinic,
   AddDoctorInput,
