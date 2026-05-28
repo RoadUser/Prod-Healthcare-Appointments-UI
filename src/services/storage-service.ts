@@ -5,7 +5,7 @@ export class StorageService {
     if (!StorageService.instance) StorageService.instance = new StorageService();
     return StorageService.instance;
   }
-
+//htghgjh
   get<T>(key: string): T | null {
     try {
       const v = localStorage.getItem(key);
