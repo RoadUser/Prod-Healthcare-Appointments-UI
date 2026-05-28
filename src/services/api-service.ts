@@ -31,7 +31,7 @@ import type {
   ListAppointmentsByDoctorInput,
   GetAppointmentInput
 } from "@/types";
-
+//rtrytr
 function assertOk<T>(res: ContractResponse<T>): T {
   if ((res as any).error) {
     const e = (res as any).error;
